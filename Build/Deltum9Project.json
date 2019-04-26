@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Deltum9Project",
+"dataUrl": "Deltum9Project.data.unityweb",
+"asmCodeUrl": "Deltum9Project.asm.code.unityweb",
+"asmMemoryUrl": "Deltum9Project.asm.memory.unityweb",
+"asmFrameworkUrl": "Deltum9Project.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
